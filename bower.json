@@ -1,6 +1,5 @@
 {
   "name": "layer",
-  "main": "layer.js",
   "version": "2.0",
   "homepage": "https://layer.layui.com",
   "authors": [
@@ -11,6 +10,9 @@
     "layer"
   ],
   "license": "LGPL",
+  "main": [
+    "layer.js"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
@@ -19,5 +21,6 @@
     "tests"
   ],
   "dependencies": {
+    "jquery": ">= 1.9.1"
   }
 }
