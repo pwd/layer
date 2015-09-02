@@ -1,0 +1,23 @@
+{
+  "name": "layer",
+  "main": "layer.js",
+  "version": "2.0",
+  "homepage": "https://layer.layui.com",
+  "authors": [
+    "sentsin"
+  ],
+  "description": "",
+  "keywords": [
+    "layer"
+  ],
+  "license": "LGPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
