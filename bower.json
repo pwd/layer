@@ -13,8 +13,6 @@
   "ignore": [
     "**/*.md",
     "**/*.json",
-    "*.md",
-    "*.json",
     "GruntFile.js",
     "LICENSE",
     "node_modules",
