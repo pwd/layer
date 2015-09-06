@@ -11,6 +11,10 @@
   ],
   "license": "LGPL",
   "ignore": [
+    "**/*.md",
+    "**/*.json",
+    "GruntFile.js",
+    "LICENSE",
     "node_modules",
     "bower_components",
     "src",
